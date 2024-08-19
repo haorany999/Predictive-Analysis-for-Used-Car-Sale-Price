@@ -49,5 +49,4 @@ This project serves as a comprehensive exercise in predictive modeling, emphasiz
 3. Refer to the `kaggle_report.docx` and `5200-PAC-report.html` for detailed documentation and insights.
 
 ## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
